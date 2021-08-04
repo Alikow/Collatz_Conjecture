@@ -1,6 +1,6 @@
 # The Collatz Conjecture
 
-    -Source: Wikipedia
+    -I made collatz conjecture function to administrate how to work...
 The Collatz conjecture is a conjecture in mathematics that concerns sequences defined as follows:
 1. start with any positive integer n.
 2. Then each term is obtained from the previous term as follows:
@@ -8,5 +8,3 @@ The Collatz conjecture is a conjecture in mathematics that concerns sequences de
    * If the previous term is odd, the next term is 3 times the previous term plus 1.
 
 **The conjecture is that no matter what value of n, the sequence will always reach 1.**
-
-
